@@ -104,3 +104,15 @@ section{
     gap: 50px;
     align-items: center;
 }
+.top{
+     text-decoration: none;
+    font-size: 70px;
+    position: fixed;
+    bottom: 30px;
+    z-index: 99;
+    right: 30px;
+}
+html{
+    scroll-behavior: smooth;
+}
+    
